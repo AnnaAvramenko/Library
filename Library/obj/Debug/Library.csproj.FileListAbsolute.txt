@@ -358,3 +358,5 @@ C:\Users\Anna\Documents\lib\Library\bin\roslyn\System.Xml.XPath.XDocument.dll
 C:\Users\Anna\Documents\lib\Library\bin\roslyn\vbc.exe.config
 C:\Users\Anna\Documents\lib\Library\bin\roslyn\vbc.rsp
 C:\Users\Anna\Documents\lib\Library\bin\System.Net.Http.dll
+C:\Users\Anna\Documents\lib\Library\bin\Dapper.dll
+C:\Users\Anna\Documents\lib\Library\bin\Dapper.xml
